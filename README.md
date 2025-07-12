@@ -78,3 +78,6 @@ Agar saya bisa mengetahui siapa yang dapat mengakses data medis saya dan dengan 
 Sebagai pengguna (pasien atau dokter),  
 Saya ingin dapat memeriksa CID dari file atau foto yang disimpan di IPFS,  
 Agar saya dapat memverifikasi integritas dan kebenaran data medis yang tersimpan.
+
+Spreadshet link:
+https://docs.google.com/spreadsheets/d/1deTGDH1IqyiWYgoI3XYl92YG1cmfcjqDEVYM5Z4HkuY/edit?usp=sharing
